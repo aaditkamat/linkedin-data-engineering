@@ -1,0 +1,3 @@
+[submodule "linkedin-data-engineering"]
+	path = .
+	url = https://github.com/aaditkamat/end-to-end-data-engineering-project-4413618
